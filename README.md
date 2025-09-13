@@ -1,38 +1,83 @@
-<h1>Hi, I'm Harold! <br/><a href="https://github.com/HaroldNhlane">Software Engineer</a>, <a href="https://www.linkedin.com/in/harold-nhlane/">Telecommunications Profesional</a></h1>
+<table>
+<tr>
+<td width="260" valign="top" align="center">
 
-<h2>👨‍💻 Backend Software Development Projects:</h2>
+<img src="your-photo.jpg" alt="Harold Nhlane" width="200" style="border-radius:50%"><br><br>
 
-- <b>Database Management Systems</b>
-  - [html,css,PHP](https://github.com/#/#)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+### 📬 Contact  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harold-nhlane/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaroldNhlane)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@email.com)  
 
+---
 
+**Location:** Zambia  
+**Phone:** +260 XXX XXX XXX  
 
+</td>
+<td valign="top">
 
-[linkedin]: https://linkedin.com/in/harold-nhlane
+# Hi, I'm Harold Nhlane! 👋  
 
-<!--
-**HaroldNhlane/HaroldNhlane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 ICT Software Engineer | Data Analyst  
 
-Here are some ideas to get you started:
+I'm a passionate **ICT Software Engineer** and **Data Analyst** with a strong focus on backend development and data-driven solutions.  
+I enjoy building robust systems and transforming raw data into meaningful insights.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 🚀 What I'm Working On  
+- 🔭 Backend solutions & advanced analytics  
+- 🌱 Learning more about **Python** and **machine learning**  
+- 👯 Open to backend & data engineering collaborations  
+- 💬 Ask me about: **Python** or **PowerShell**  
+
+---
+
+### 💻 Projects  
+- [ALX Smart Grid](https://github.com/HaroldNhlane/ALX_Smart_grid)  
+- [Django Learn Lab](https://github.com/HaroldNhlane/Alx_DjangoLearnLab)  
+
+*Some projects are adapted from forks for demonstration purposes.*  
+
+---
+
+### 🛠️ My Skills  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaroldNhlane&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldNhlane&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HaroldNhlane&theme=tokyonight&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaroldNhlane&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
+
+</td>
+</tr>
+</table>

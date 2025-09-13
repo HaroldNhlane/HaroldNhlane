@@ -1,3 +1,10 @@
+<!-- Personalized Banner -->
+<div align="center">
+  <img src="https://github.com/HaroldNhlane/HaroldNhlane/blob/main/assets/banner.png?raw=true" alt="Harold Nhlane - ICT Software Engineer & Data Analyst" width="100%">
+</div>
+
+<br>
+
 <table>
 <tr>
 <td width="260" valign="top" align="center">
@@ -14,6 +21,11 @@
 **📍 Location:** Zambia  
 **📞 Phone:** +260 968611795  
 **📧 Email:** haroldnhlane@yahoo.com
+
+<br>
+
+### 🎯 Fun Fact
+I'm passionate about using technology to solve real-world problems in energy management and believe that data-driven solutions can transform communities across Africa!
 
 </td>
 <td valign="top">
@@ -36,14 +48,6 @@ I enjoy building robust systems and transforming raw data into meaningful insigh
 
 ---
 
-### 💻 Projects  
-- [ALX Smart Grid](https://github.com/HaroldNhlane/ALX_Smart_grid) - Smart grid implementation for energy management
-- [Django Learn Lab](https://github.com/HaroldNhlane/Alx_DjangoLearnLab) - Learning laboratory for Django framework
-
-*Some projects are adapted from forks for demonstration purposes.*  
-
----
-
 ### 🛠️ My Skills  
 
 **Programming Languages:**  
@@ -57,8 +61,28 @@ I enjoy building robust systems and transforming raw data into meaningful insigh
 
 **Tools & Technologies:**  
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
+### 💻 Projects  
+- [ALX Smart Grid](https://github.com/HaroldNhlane/ALX_Smart_grid) - Smart grid implementation for energy management
+- [Django Learn Lab](https://github.com/HaroldNhlane/Alx_DjangoLearnLab) - Learning laboratory for Django framework
+
+*Some projects are adapted from forks for demonstration purposes.*  
+
+---
+
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How I Built a Smart Grid System with Python and Django](https://example.com/blog/smart-grid-python-django)
+- [Data Analysis Techniques for Energy Consumption Patterns](https://example.com/blog/energy-data-analysis)
+- [Getting Started with Backend Development: A Beginner's Guide](https://example.com/blog/backend-development-guide)
+<!-- BLOG-POST-LIST:END -->
+
+*Note: Replace these with your actual blog posts when you start writing*
 
 ---
 
@@ -94,3 +118,8 @@ I enjoy building robust systems and transforming raw data into meaningful insigh
 </td>
 </tr>
 </table>
+
+<!-- GitHub Actions workflow badge -->
+<p align="right">
+  <img src="https://github.com/HaroldNhlane/HaroldNhlane/workflows/Update%20README/badge.svg" alt="README Update Status">
+</p>

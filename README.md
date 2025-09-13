@@ -12,7 +12,8 @@
 ---
 
 **Location:** Zambia  
-**Phone:** +260 XXX XXX XXX  
+**Phone:** +260 968611795  
+**Email:** haroldnhlane@yahoo.com
 
 </td>
 <td valign="top">

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HaroldNhlane/HaroldNhlane/main/assets/banner.jpg" alt="Harold Nhlane - ICT Software Engineer & Data Analyst" width="800" height="150" style="max-width: 100%; height: auto; object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/HaroldNhlane/HaroldNhlane/main/assets/banner.jpg" alt="Harold Nhlane - ICT Software Engineer & Data Analyst" style="width: 100%; height: 150px; object-fit: cover;">
 </div>
 
 <br>

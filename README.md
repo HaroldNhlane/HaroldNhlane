@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HaroldNhlane/HaroldNhlane/main/assets/assets/A professional banner design with a data visualization theme, featuring clean, modern charts, graphs, and abstract geometric elements. The color palette is sophisticated, utilizing shades of blue, teal, and white wi.jpg" alt="Harold Nhlane - ICT Software Engineer & Data Analyst" width="100%">
+  <img src="https://raw.githubusercontent.com/HaroldNhlane/HaroldNhlane/main/assets/assets/banner.jpg" alt="Harold Nhlane - ICT Software Engineer & Data Analyst" width="100%">
 </div>
 
 <br>

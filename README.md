@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HaroldNhlane/HaroldNhlane/main/assets/banner.jpg" alt="Harold Nhlane - ICT Software Engineer & Data Analyst" style="width: 100%; height: 150px; object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/HaroldNhlane/HaroldNhlane/main/assets/banner.jpg" alt="Harold Nhlane - Certified Backend Engineer | Data Analyst | Aspiring Data Scientist" style="width: 100%; height: 150px; object-fit: cover;">
 </div>
 
 <br>
@@ -23,6 +23,12 @@
 
 <br>
 
+### 🏆 Certifications
+[![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-Certified-6e5494?style=for-the-badge&logo=azure-devops&logoColor=white)](https://example.com/certification)
+[![Data Analysis](https://img.shields.io/badge/Data_Analysis-Certified-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://example.com/certification)
+
+<br>
+
 ### 🎯 Fun Fact
 I'm passionate about using technology to solve real-world problems in energy management and believe that data-driven solutions can transform communities across Africa!
 
@@ -31,44 +37,57 @@ I'm passionate about using technology to solve real-world problems in energy man
 
 # Hi, I'm Harold Nhlane! 👋  
 
-### 👨‍💻 ICT Software Engineer | Data Analyst  
+### 👨‍💻 Certified Backend Engineer | Data Analyst | Aspiring Data Scientist
 
-I'm a passionate **ICT Software Engineer** and **Data Analyst** with a strong focus on backend development and data-driven solutions.  
-I enjoy building robust systems and transforming raw data into meaningful insights.  
+I'm a **Certified Backend Engineer** and **Data Analyst** with a strong focus on building scalable server-side applications and data-driven solutions, currently expanding my expertise toward becoming a **Data Scientist**.  
+I specialize in creating robust, efficient backend systems and transforming raw data into meaningful insights that drive business decisions.  
 
 ---
 
 ### 🚀 What I'm Working On  
-- 🔭 Backend solutions & advanced analytics  
-- 🌱 Learning more about **Python** and **machine learning**  
-- 👯 Open to backend & data engineering collaborations  
-- 💬 Ask me about: **Python** or **PowerShell**  
+- 🔭 Developing scalable backend solutions & advanced analytics systems  
+- 🌱 Learning more about **Python**, **machine learning**, and **data science**  
+- 👯 Open to backend engineering, data engineering, and data science collaborations  
+- 💬 Ask me about: **Backend development**, **Python**, **APIs**, or **data analysis**  
 - 📫 How to reach me: **haroldnhlane@yahoo.com**
+- 🎯 **Career Goal:** Becoming a Full-Stack Data Scientist with strong backend expertise
 
 ---
 
 ### 🛠️ My Skills  
 
-**Programming Languages:**  
+**Backend Development:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-
-**Frameworks & Libraries:**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![API Development](https://img.shields.io/badge/API_Development-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Database Technologies:**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Data Science & Analytics:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 **Tools & Technologies:**  
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ### 💻 Projects  
-- [ALX Smart Grid](https://github.com/HaroldNhlane/ALX_Smart_grid) - Smart grid implementation for energy management
-- [Django Learn Lab](https://github.com/HaroldNhlane/Alx_DjangoLearnLab) - Learning laboratory for Django framework
+- [ALX Smart Grid](https://github.com/HaroldNhlane/ALX_Smart_grid) - Smart grid implementation with robust backend architecture and data analysis components
+- [Django Learn Lab](https://github.com/HaroldNhlane/Alx_DjangoLearnLab) - Backend learning laboratory for Django framework
+- [REST API Portfolio](https://github.com/HaroldNhlane) - Various RESTful API and backend service projects
+- [Data Analysis Portfolio](https://github.com/HaroldNhlane) - Data analysis and machine learning projects
 
 *Some projects are adapted from forks for demonstration purposes.*  
 
@@ -76,9 +95,10 @@ I enjoy building robust systems and transforming raw data into meaningful insigh
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Scalable Backend Systems with Django REST Framework](https://example.com/blog/django-rest-framework)
 - [How I Built a Smart Grid System with Python and Django](https://example.com/blog/smart-grid-python-django)
 - [Data Analysis Techniques for Energy Consumption Patterns](https://example.com/blog/energy-data-analysis)
-- [Getting Started with Backend Development: A Beginner's Guide](https://example.com/blog/backend-development-guide)
+- [My Journey into Data Science: From Backend Engineering to Machine Learning](https://example.com/blog/data-science-journey)
 <!-- BLOG-POST-LIST:END -->
 
 *Note: Replace these with your actual blog posts when you start writing*

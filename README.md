@@ -8,7 +8,7 @@
 <tr>
 <td width="260" valign="top" align="center">
 
-<img src="https://avatars.githubusercontent.com/u/206536845?v=4" alt="Harold Nhlane" width="200" style="border-radius:50%"><br><br>
+
 
 ### 📬 Contact  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harold-nhlane/)  
